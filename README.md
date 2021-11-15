@@ -1,0 +1,2 @@
+# lo-fi-jucer
+This is a VST I made for my C Programming for Music Technology final project during my master's years. As the name suggests, it turns the input into a downsampled, detuned, and distorted "lo-fi" mesh of sounds as if one throws the original sound into a juicer and blends everything into a distorted mess. Also it is made with Juce, so here goes my humor attempt with this zero-effort pun.
